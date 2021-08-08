@@ -1,5 +1,5 @@
 # Home Credit Default Risk Kaggle submission
-My submission for the [Home Credit Default Risk Kaggle competition](https://www.kaggle.com/c/home-credit-default-risk/overview). 
+[My submission](project.ipynb) for the [Home Credit Default Risk Kaggle competition](https://www.kaggle.com/c/home-credit-default-risk/overview). 
 
 The objective of this competition is to predict how capable each applicant is of repaying a loan. I started with a simple exploratory data analysis investigating the distributions of features between classes, looking for correlations. Later, I experimented with manual and automated feature engineering, comparing the performance of various machine learning models.
 
